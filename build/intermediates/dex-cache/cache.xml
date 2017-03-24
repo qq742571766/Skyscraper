@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\skyscraper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca7984d454e606f13aefdd97b96e226587a2347f">
+        <dex dex="G:\skyscraper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e19418d3c1cc7747fd6b72da9ec7b3a156bc4c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\skyscraper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa32529d154ddc5bdedbe2bc853065f18b095967">
+        <dex dex="G:\skyscraper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_37feda43fc02251b23e10b432a4261f6b24f72c7\classes.dex" />
+    </item>
+
+</items>

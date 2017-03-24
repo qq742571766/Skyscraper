@@ -1,0 +1,7 @@
+#Fri Mar 17 11:58:43 CST 2017
+base.0=G\:\\skyscraper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e19418d3c1cc7747fd6b72da9ec7b3a156bc4c99
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\skyscraper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_37feda43fc02251b23e10b432a4261f6b24f72c7\\classes.dex
+base.1=G\:\\skyscraper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_37feda43fc02251b23e10b432a4261f6b24f72c7
+file.0=G\:\\skyscraper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e19418d3c1cc7747fd6b72da9ec7b3a156bc4c99\\classes.dex

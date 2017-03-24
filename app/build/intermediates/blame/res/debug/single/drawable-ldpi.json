@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

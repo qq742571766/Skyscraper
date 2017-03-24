@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fail.mp3",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\raw\\fail.mp3"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\failbk.mp3",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\raw\\failbk.mp3"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success.mp3",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.mid",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\raw\\win.mid"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success.mp3",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.mid",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\raw\\win.mid"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fail.mp3",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\raw\\fail.mp3"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\background.mid",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\raw\\background.mid"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\failbk.mp3",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\raw\\failbk.mp3"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\raw\\background.mid",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\raw\\background.mid"
+    }
+]

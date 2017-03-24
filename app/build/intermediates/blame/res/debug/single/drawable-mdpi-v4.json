@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\background.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\load.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\load.jpg"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\floor.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\floor.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\background.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\floor.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\floor.jpg"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\helpbg.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\helpbg.jpg"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\load.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\load.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_bg.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\sound_bg.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\helpbg.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\helpbg.jpg"
+    },
+    {
+        "merged": "G:\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg1.jpg",
+        "source": "G:\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\bg1.jpg"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg1.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\bg1.jpg"
+    },
+    {
+        "merged": "G:\\demo\\skyscraper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_bg.jpg",
+        "source": "G:\\demo\\skyscraper\\app\\src\\main\\res\\drawable-mdpi\\sound_bg.jpg"
+    }
+]
